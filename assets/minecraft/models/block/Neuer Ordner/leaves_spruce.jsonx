@@ -1,0 +1,1 @@
+{  "__comment": "Created by Filal",  "ambientocclusion": true,  "parent": "block/leaves",  "textures": {    "particle": "block/leaves_spruce",    "tips": "block/better_leaves_spruce",    "middle": "block/leaves_spruce"  }}

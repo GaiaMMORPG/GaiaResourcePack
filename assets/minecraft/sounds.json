@@ -220,6 +220,18 @@
   "sounds": [
     "extra/teleportation"
   ]
+ },
+ 
+  "journal_ping": {
+  "sounds": [
+    "extra/journal_ping"
+  ]
+ },
+ 
+  "falling_tree": {
+  "sounds": [
+    "extra/falling_tree"
+  ]
  }
 
 }

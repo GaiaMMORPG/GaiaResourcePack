@@ -274,6 +274,12 @@
   "sounds": [
     "extra/orc_theme"
   ]
- }
+ },
+ 
+ "questrelle_theme": {
+ "sounds": [
+   "extra/questrelle_theme"
+ ]
+}
 
 }

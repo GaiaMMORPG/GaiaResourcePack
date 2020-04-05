@@ -232,6 +232,48 @@
   "sounds": [
     "extra/falling_tree"
   ]
+ },
+ 
+  "success": {
+  "sounds": [
+    "extra/success"
+  ]
+ },
+ 
+  "dwarf_theme": {
+  "sounds": [
+    "extra/dwarf_theme"
+  ]
+ },
+ 
+  "avantposte_theme": {
+  "sounds": [
+    "extra/avantposte_theme"
+  ]
+ },
+ 
+  "human_theme": {
+  "sounds": [
+    "extra/human_theme"
+  ]
+ },
+ 
+  "desert_theme": {
+  "sounds": [
+    "extra/desert_theme"
+  ]
+ },
+ 
+  "elfes_theme": {
+  "sounds": [
+    "extra/elfes_theme"
+  ]
+ },
+ 
+  "orc_theme": {
+  "sounds": [
+    "extra/orc_theme"
+  ]
  }
 
 }
